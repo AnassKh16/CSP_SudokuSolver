@@ -215,6 +215,12 @@ python q3_sudoku_csp.py sudoku_boards/easy.txt sudoku_boards/medium.txt sudoku_b
 
 ---
 
+## Output
+<img width="1917" height="995" alt="image" src="https://github.com/user-attachments/assets/c4409281-2f98-41c3-a1c6-e5f830dd82e7" />
+
+
+```
+
 ## Dependencies
 
 - Python 3.8+
