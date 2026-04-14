@@ -211,7 +211,7 @@ python q3_sudoku_csp.py sudoku_boards/easy.txt sudoku_boards/medium.txt sudoku_b
 - **Easy & Medium** are solved with zero failures — AC-3 + forward checking is highly effective for well-constrained puzzles.
 - **Hard & Very Hard** return no solution. The dramatically increasing failure rates point to a solver limitation with sparse boards rather than the puzzles being unsolvable.
 - The jump from **16 → 174 → 2707** backtrack calls illustrates the exponential cost of search as constraint density decreases.
-- The **Evil** board (not shown above) reports 0 calls and 0 failures — AC-3 detects an inconsistency before backtracking even starts.
+
 
 ---
 
