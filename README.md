@@ -1,4 +1,4 @@
-# AI 2002 – Assignment 4 | Question 2: Sudoku Boards as CSPs
+# AI 2002 – Assignment 5 | Question 2: Sudoku Boards as CSPs
 
 A CSP-based Sudoku solver using **AC-3 arc consistency**, **forward checking**, and **backtracking search** with the MRV (Minimum Remaining Values) heuristic.
 
